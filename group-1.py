@@ -3,6 +3,13 @@ from pathlib import Path
 
 import pandas as pd
 
+# Download the data folder at this link: https://zenodo.org/records/999150/files/RE-Europe_dataset_package_v1-2.zip?download=1
+# Place the folder at the root level of this repo, i.e., after downloading the data
+# you should have the following folder structure:
+# .
+# ├── group-1.py
+# └── RE-Europe_dataset_package
+
 ROOT = Path("RE-Europe_dataset_package")
 
 # ---------- load files ----------
