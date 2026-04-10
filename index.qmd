@@ -79,7 +79,7 @@ Welcome to the 2026 MFC Jamboree!
 
 - [Slides](materials/MFC_CDT_Jamboree_2026.pdf)
 - [Paper](materials/sdata2017175.pdf)
-- [Dataset](...)
+- [Dataset](https://github.com/mfc-cdt/mfc-jamboree-2026/releases/download/v1.0/renewables-dataset.parquet)
 - [Python: load dataset](example-code/read-data.py)
 - [R: load dataset](example-code/read-data.R)
 
@@ -88,7 +88,7 @@ Welcome to the 2026 MFC Jamboree!
 
 Participants are encouraged to:
 
-1. Download the [dataset](...)
+1. Download the [dataset](https://github.com/mfc-cdt/mfc-jamboree-2026/releases/download/v1.0/renewables-dataset.parquet)
 2. Run one of the example scripts:
    - Python: `read-data.py`
    - R: `read-data.R`
