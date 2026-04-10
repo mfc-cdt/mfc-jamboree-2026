@@ -2,7 +2,6 @@
 title: "MFC CDT Jamboree"
 subtitle: "Windsor, 13-15 April 2026"
 ---
-<!-- Publish website on github !!! -->
 
 # Welcome
 
@@ -21,8 +20,8 @@ Welcome to the MFC Jamboree!
 
 ## Materials
 
-<!-- - [Paper](...) !!! add pdf paper -->
-- [Slides](...)
+- [Paper](materials/sdata2017175.pdf)
+- [Slides](materials/MFC_CDT_Jamboree_2026.pdf)
 - [Nicola Rennie's Lectures](https://nrennie.rbind.io/MFC-CDT-data-viz/)
 - [Dataset](...)
 - [Python example code](example-code/read-data.py)
