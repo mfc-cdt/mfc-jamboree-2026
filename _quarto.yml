@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "MFC Jamboree"
+  page-navigation: true
+
+  navbar:
+    background: primary
+    right:
+      - icon: github
+        href: https://github.com/YOUR-USERNAME/YOUR-REPO
+
+format:
+  html:
+    theme: flatly
+    toc: true
+    toc-location: right
+    toc-depth: 2
+    smooth-scroll: true
+    code-copy: true
+    code-overflow: wrap
+
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 250px
+
+    highlight-style: github
+    link-external-icon: true
+
+callout-appearance: simple

@@ -1,0 +1,51 @@
+---
+title: "MFC Jamboree"
+subtitle: "PhD Jamboree"
+author: "Nicola Gnecco"
+---
+
+# Welcome
+
+- Welcome to the MFC Jamboree.
+- https://crsl4.github.io/julia-workshop/
+- https://github.com/crsl4/julia-workshop/blob/main/_quarto.yml
+- This page collects materials, code, and workshop information.
+- The goal is to provide a simple hub for the event.
+- Materials are available in the repository.
+
+## Learning objectives
+
+At the end of the session, participants will be able to:
+
+- understand the problem setup
+- inspect and run the provided code
+- reproduce basic results
+- discuss extensions and open questions
+
+## Schedule
+
+| Time | Topic | Presenter |
+|---|---|---|
+| 10:00–10:15 | Introduction | Nicola Gnecco |
+| 10:15–11:00 | Student presentations | TBD |
+| 11:00–11:45 | Mini workshop | Nicola Gnecco |
+| 11:45–12:00 | Discussion | All |
+
+## Materials
+
+- [Python code](materials/group-1.py)
+- [Preparation folder](materials/)
+
+## In preparation for the workshop
+
+Participants are encouraged to:
+
+1. clone the repository  
+2. look through the preparation material  
+3. make sure Python/R runs locally  
+4. come with questions  
+
+## Notes
+
+- All material is intentionally minimal.
+- Focus is on discussion and interaction.

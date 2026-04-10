@@ -1,1 +1,7 @@
-RE-Europe_dataset_package/*
+preparation/RE-Europe_dataset_package/*
+.Rproj.user
+/.quarto/
+_site/
+.DS_Store
+.Rhistory
+*.parquet
