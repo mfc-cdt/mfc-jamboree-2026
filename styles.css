@@ -1,1 +1,13 @@
-/* css styles */
+.callout-note {
+  border-left: 4px solid #2c7be5;
+  background-color: #f8fbff;
+  border-radius: 8px;
+}
+
+.callout-note p {
+  margin-bottom: 0.7rem;
+}
+
+h3 {
+  margin-top: 1.4rem;
+}

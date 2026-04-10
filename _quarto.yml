@@ -9,25 +9,13 @@ website:
   navbar:
     background: primary
     right:
+      - text: "MFC CDT"
+        href: https://www.mfccdt.ac.uk/
       - icon: github
-        href: https://github.com/YOUR-USERNAME/YOUR-REPO
+        href: https://github.com/mfc-cdt/mfc-jamboree-2026
 
 format:
   html:
-    theme: flatly
-    toc: true
-    toc-location: right
-    toc-depth: 2
-    smooth-scroll: true
-    code-copy: true
-    code-overflow: wrap
-
-    grid:
-      sidebar-width: 250px
-      body-width: 900px
-      margin-width: 250px
-
-    highlight-style: github
-    link-external-icon: true
-
-callout-appearance: simple
+    theme: 
+      - website-styles.scss
+      - cosmo

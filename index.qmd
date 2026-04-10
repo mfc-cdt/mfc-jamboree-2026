@@ -1,38 +1,95 @@
 ---
 title: "MFC CDT Jamboree"
-subtitle: "Windsor, 13-15 April 2026"
+subtitle: "Windsor, 12-15 April 2026"
 ---
 
-# Welcome
 
-Welcome to the MFC Jamboree!
-<!-- https://crsl4.github.io/julia-workshop/ -->
-<!-- https://github.com/crsl4/julia-workshop/blob/main/_quarto.yml -->
+Welcome to the 2026 MFC Jamboree!
 
 ## Schedule
 
-| Time | Topic | Presenter |
-|---|---|---|
-| 10:00–10:15 | Introduction | Almut and Rukia |
-| 10:15–11:00 | Student presentations | TBD |
-| 11:00–11:45 | Mini workshop | Nicola Rennie |
-| 11:45–12:00 | Discussion | All |
+::: {.callout-note collapse="true" appearance="minimal"}
+#### Sunday 12 April
+
+| Time        | Topic                     | 
+|-------------|---------------------------|
+| 16:45–18:00 | Arrival                  |            
+| 18:00–19:00 | Welcome talk             |            
+| 19:15–21:00 | Dinner                   |            
+:::
+
+::: {.callout-note collapse="true" appearance="minimal"}
+#### Monday 13 April
+
+| Time    | Topic    | Instructor/Presenter |
+|--------|-------------|------------|
+| 08:00–09:00 | *Breakfast*    |            |
+| 09:00–10:30 | Introduction to the Hackathon & group allocations  | Nicola Gnecco, Rukia Nuermaimaiti, Almut Veraart |
+| 10:30–11:00 | *Tea + Coffee with Biscuits*         |            |
+| 11:00–13:00 | Mixed R/Python visualisation – Part 1          | Nicola Rennie |
+| 13:00–14:00 | *Lunch*     |            |
+| 14:00–15:00 | Mixed R/Python visualisation – Part 2    | Nicola Rennie |
+| 15:00–15:30 | Hackathon: Group work  |            |
+| 15:30–16:00 | *Tea + Coffee with Cake*              |            |
+| 16:00–17:00 | Hackathon: Group work      |            |
+| 17:15–18:15 | Talk        | Alberto Garabato |
+| 19:15–21:00 | *Dinner*       |            |
+:::
+
+::: {.callout-note collapse="true" appearance="minimal"}
+#### Tuesday 14 April
+
+| Time        | Topic      |
+|--------|-------------|
+| 08:00–09:00 | *Breakfast*      |            
+| 09:00–10:30 | Hackathon: Group work   |            
+| 10:30–11:00 | *Tea + Coffee with Biscuits*   |  
+| 11:00–13:00 | Hackathon: Group work   |   
+| 13:00–14:00 | *Lunch*        |          
+| 14:00–15:30 | Hackathon: Group work (start preparing presentations)    |  
+| 15:30–16:00 | *Tea + Coffee with Cake*      |         
+| 16:00–17:30 | 3-min presentations by 1st year students   |        
+| 17:30–18:15 | Hackathon: Group work (finalise presentations)   |    
+| 19:15–21:00 | *Dinner*  |         
+:::
+
+::: {.callout-note collapse="true" appearance="minimal"}
+#### Wednesday 15 April
+
+| Time        | Topic     | Presenter |
+|--------|-----------------------|------------|
+| 08:00–09:00 | *Breakfast*     |            |
+| 09:00–10:30 | Hackathon: Group presentations (6 × 10 min + discussion)  |            |
+| 10:30–11:00 | *Tea + Coffee with Biscuits*       |            |
+| 11:00–11:30 | Prize ceremony       |            |
+| 11:30–12:15 | Symposium Talk         | Sarah Dance |
+| 12:15–13:00 | Symposium Talk     | Etienne Roesch |
+| 13:00–14:00 | *Lunch*       |            |
+| 14:00–14:45 | Symposium Talk      | Nicole Shibley |
+| 14:45–15:30 | Symposium Talk     | Coralia Cartis |
+| 15:30–16:00 | *Tea + Coffee with Cake – End of Programme*    |            |
+:::
 
 ## Materials
 
-- [Paper](materials/sdata2017175.pdf)
+### Lecture material and slides
+- [Nicola Rennie: Mixed R/Python visualisation](https://nrennie.rbind.io/MFC-CDT-data-viz/)
+
+### Hackaton material
+
 - [Slides](materials/MFC_CDT_Jamboree_2026.pdf)
-- [Nicola Rennie's Lectures](https://nrennie.rbind.io/MFC-CDT-data-viz/)
+- [Paper](materials/sdata2017175.pdf)
 - [Dataset](...)
-- [Python example code](example-code/read-data.py)
-- [R code](example-code/read-data.R)
+- [Python: load dataset](example-code/read-data.py)
+- [R: load dataset](example-code/read-data.R)
 
 
 ## In preparation for the workshop
 
 Participants are encouraged to:
 
-1. clone the repository  
-2. look through the preparation material  
-3. make sure Python/R runs locally  
-4. come with questions  
+1. Download the [dataset](...)
+2. Run one of the example scripts:
+   - Python: `read-data.py`
+   - R: `read-data.R`
+3. Check that everything runs locally
