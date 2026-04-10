@@ -5,8 +5,8 @@ library(arrow)
 dataset <- read_parquet("dataset/renewables-dataset.parquet")
 
 # Compute residual for given penetration
-a_s <- 0.05 # solar matches (a_s x 100)% of the average yearly demand across EU
-a_w <- 0.3 # wind matches (a_w x 100)% of the average yearly demand across EU
+a_s <- 0.30 # solar matches (a_s x 100)% of the average yearly demand across EU
+a_w <- 0.05 # wind matches (a_w x 100)% of the average yearly demand across EU
 
 dataset_residual <- dataset %>%
   mutate(
@@ -30,3 +30,4 @@ subset_data <- dataset_residual %>%
 
 ggplot(subset_data) +
   geom_line(aes(x = Time, y = MWh, col = source))
+

@@ -63,6 +63,14 @@ dataset <- dataset %>%
   select(Time, ID, demand_MWh, supply_MWh, solar_MWh, wind_MWh, everything())
 
 
+# check yearly averages across EU match demand
+agg <- dataset %>% 
+  mutate(year = year(Time)) %>% 
+  group_by(year) %>% 
+  summarise(demand = mean(demand_MWh),
+            solar = mean(solar_MWh),
+            wind = mean(wind_MWh))
+
 
 # save dataset
 write_parquet(

@@ -19,8 +19,8 @@ print(dataset.head())
 # 2. Choose penetration/scaling for solar + wind
 # ----------------------------------------------
 # These scale the already-computed solar_MWh and wind_MWh columns
-a_s = 0.05  # solar matches (a_s x 100)% of the average yearly demand across EU
-a_w = 0.30  # wind matches (a_w x 100)% of the average yearly demand across EU
+a_s = 0.01  # solar matches (a_s x 100)% of the average yearly demand across EU
+a_w = 0.05  # wind matches (a_w x 100)% of the average yearly demand across EU
 
 
 # Compute scaled supply and residual load

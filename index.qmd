@@ -1,40 +1,33 @@
 ---
-title: "MFC Jamboree"
-subtitle: "PhD Jamboree"
-author: "Nicola Gnecco"
+title: "MFC CDT Jamboree"
+subtitle: "Windsor, 13-15 April 2026"
 ---
+<!-- Publish website on github !!! -->
 
 # Welcome
 
-- Welcome to the MFC Jamboree.
-- https://crsl4.github.io/julia-workshop/
-- https://github.com/crsl4/julia-workshop/blob/main/_quarto.yml
-- This page collects materials, code, and workshop information.
-- The goal is to provide a simple hub for the event.
-- Materials are available in the repository.
-
-## Learning objectives
-
-At the end of the session, participants will be able to:
-
-- understand the problem setup
-- inspect and run the provided code
-- reproduce basic results
-- discuss extensions and open questions
+Welcome to the MFC Jamboree!
+<!-- https://crsl4.github.io/julia-workshop/ -->
+<!-- https://github.com/crsl4/julia-workshop/blob/main/_quarto.yml -->
 
 ## Schedule
 
 | Time | Topic | Presenter |
 |---|---|---|
-| 10:00–10:15 | Introduction | Nicola Gnecco |
+| 10:00–10:15 | Introduction | Almut and Rukia |
 | 10:15–11:00 | Student presentations | TBD |
-| 11:00–11:45 | Mini workshop | Nicola Gnecco |
+| 11:00–11:45 | Mini workshop | Nicola Rennie |
 | 11:45–12:00 | Discussion | All |
 
 ## Materials
 
-- [Python code](materials/group-1.py)
-- [Preparation folder](materials/)
+<!-- - [Paper](...) !!! add pdf paper -->
+- [Slides](...)
+- [Nicola Rennie's Lectures](https://nrennie.rbind.io/MFC-CDT-data-viz/)
+- [Dataset](...)
+- [Python example code](example-code/read-data.py)
+- [R code](example-code/read-data.R)
+
 
 ## In preparation for the workshop
 
@@ -44,8 +37,3 @@ Participants are encouraged to:
 2. look through the preparation material  
 3. make sure Python/R runs locally  
 4. come with questions  
-
-## Notes
-
-- All material is intentionally minimal.
-- Focus is on discussion and interaction.
